@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react'
+import React, { useEffect, useState } from 'react'
 import Header from './components/header/Header'
 import Nav from './components/nav/Nav'
 import { Testimonials } from './components/testimonial/Testimonials'
@@ -16,40 +16,40 @@ import Content from './components/contentwriting/Content'
 
 const App = () => {
   const [loading, setLoading] = useState(false);
-  useEffect(() =>{
+  useEffect(() => {
     setLoading(true)
-    setTimeout(() =>{
+    setTimeout(() => {
       setLoading(false)
     }, 8000)
   }, [])
 
   return (
-   
-    <>
-    <p id='fade-in'>Greetings...</p>
-        {
-            loading ?
-            <RingLoader color={'#D2691E'} loading={loading}  size={150}  id='loading'/>
 
-            :
-            
+    <>
+      <p id='fade-in'>Greetings..</p>
+      {
+        loading ?
+          <RingLoader color={'#D2691E'} loading={loading} size={150} id='loading' />
+
+          :
+
           <div>
-        < Header/>
-        < Nav />
-        <About/>
-        <Experience/>
-        <Services/>
-        <Portfolio />
-        {/* <Content/> */}
-        <Testimonials />
-        <Contact/>
-        <Footer/>
-        
-       
-        </div> 
+            < Header />
+            < Nav />
+            <About />
+            <Experience />
+            <Services />
+            <Portfolio />
+            {/* <Content/> */}
+            <Testimonials />
+            <Contact />
+            <Footer />
+
+
+          </div>
       }
     </>
-    
+
   )
 }
 
