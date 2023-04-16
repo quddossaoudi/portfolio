@@ -26,7 +26,7 @@ const App = () => {
   return (
 
     <>
-      <p id='fade-in'>Greetings..</p>
+      <p id='fade-in'>Greetings...</p>
       {
         loading ?
           <RingLoader color={'#D2691E'} loading={loading} size={150} id='loading' />
