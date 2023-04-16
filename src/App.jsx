@@ -26,7 +26,7 @@ const App = () => {
   return (
    
     <>
-    <p id='fade-in'>Greetings</p>
+    <p id='fade-in'>Greetings...</p>
         {
           
             loading ?
