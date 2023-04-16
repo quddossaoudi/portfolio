@@ -30,21 +30,21 @@ const About = () => {
                      <article className="about__card">
                          <FaAward className='about__icon'/>
                          <h5>Experience</h5>
-                         <small>4+ Years Working</small>
+                         <small>1+ Years Working</small>
                      </article>
                      <article className="about__card">
                          <FiUsers className='about__icon'/>
                          <h5>Clients</h5>
-                         <small>63+ Worldwide</small>
+                         <small>12+ Worldwide</small>
                      </article>
                      <article className="about__card">
                          <VscFolderLibrary className='about__icon'/>
                          <h5>Projects</h5>
-                         <small>80+ Completed</small>
+                         <small>+ Completed</small>
                      </article>
                  </div>
 
-                 <p>Full Stack Developer and Content Writer, started my journey pretty humble where learned to code and program in my slow lagging HP Laptop to where i consider today a decent accomplishment in my life.</p>
+                 <p>A Frontend Developer and Software Engineer, began my journey with basic coding and programming skills on a slow, outdated laptop, to where i consider today a decent accomplishment in my life.</p>
                  <a href="#contact" className='btn btn-primary'>Let's Talk</a>
              </div>
          </div>
