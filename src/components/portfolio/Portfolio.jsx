@@ -16,14 +16,14 @@ const Portfolio = () => {
   }, [])
   return (
     <section data-aos="fade-down" id='portfolio'>
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h5>Portfolio</h5>
+      <h2>Web Development</h2>
       <div className="container portfolio__container">
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Portfolio</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/quddossaoudi/quddossaoudi.github.io" className='btn' target='_blank'>Github</a>
           <a href="https://quddossaoudi.github.io" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -33,7 +33,7 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Zeus</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Saoudi7/romeo" className='btn' target='_blank'>Github</a>
           <a href="https://italianbarbershop.netlify.app" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -43,7 +43,7 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG3} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Romeo</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Saoudi7/collegeweb" className='btn' target='_blank'>Github</a>
           <a href="https://xypoqs.netlify.app" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -53,7 +53,7 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG4} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Xypo</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Saoudi7/zeus" className='btn' target='_blank'>Github</a>
           <a href="https://gamingproducts.netlify.app" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -63,7 +63,7 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG5} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Rocks</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com" className='btn' target='_blank'>Github</a>
           <a href="https://dribble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -73,7 +73,7 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG6} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Lemoda</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com" className='btn' target='_blank'>Github</a>
           <a href="https://dribble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>

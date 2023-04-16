@@ -10,6 +10,7 @@ import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import RingLoader from "react-spinners/RingLoader";
 import Overlay from './components/overlay/Overlay'
+import Content from './components/contentwriting/Content'
 
 
 
@@ -44,6 +45,7 @@ const App = () => {
         <Experience/>
         <Services/>
         <Portfolio />
+        <Content/>
         <Testimonials />
         <Contact/>
         <Footer/>
