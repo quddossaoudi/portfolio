@@ -64,5 +64,8 @@
         grid-template-columns: 1fr;
         gap: 1.5rem;
     }
+    .service{
+        margin-bottom: 20px;
+    }
 
 }
