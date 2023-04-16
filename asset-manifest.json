@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.105e3d3d.css",
-    "main.js": "/portfolio/static/js/main.9180f2e3.js",
+    "main.css": "/portfolio/static/css/main.f67131f4.css",
+    "main.js": "/portfolio/static/js/main.b664704d.js",
     "static/media/me_.png": "/portfolio/static/media/me_.85721f45577757e5208a.png",
     "static/media/cvq.pdf": "/portfolio/static/media/cvq.ff8468ade0ef0038aacd.pdf",
     "static/media/quddos.pdf": "/portfolio/static/media/quddos.83f007421a0f5a687c88.pdf",
     "static/media/avatar4.png": "/portfolio/static/media/avatar4.916beae4c96422633dd0.png",
     "static/media/portfolio_3.png": "/portfolio/static/media/portfolio_3.717eab658b2125e701eb.png",
     "static/media/portfolio_5.png": "/portfolio/static/media/portfolio_5.d9b7cf53c19a052ed70e.png",
-    "static/media/donut.jpg": "/portfolio/static/media/donut.9ba7a06282aad846d310.jpg",
     "static/media/portfolio_2.png": "/portfolio/static/media/portfolio_2.18dc8379567090b0c20d.png",
     "static/media/avatar3.jpeg": "/portfolio/static/media/avatar3.c2d60218a20ac9125257.jpeg",
     "static/media/avatar2.jpeg": "/portfolio/static/media/avatar2.2cff14c72a675c69562b.jpeg",
@@ -22,11 +21,11 @@
     "static/media/lusaka.jpeg": "/portfolio/static/media/lusaka.702b3664b189ba6e3cb0.jpeg",
     "static/media/image.jpeg": "/portfolio/static/media/image.a579f50b51b4fa9f03bd.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.105e3d3d.css.map": "/portfolio/static/css/main.105e3d3d.css.map",
-    "main.9180f2e3.js.map": "/portfolio/static/js/main.9180f2e3.js.map"
+    "main.f67131f4.css.map": "/portfolio/static/css/main.f67131f4.css.map",
+    "main.b664704d.js.map": "/portfolio/static/js/main.b664704d.js.map"
   },
   "entrypoints": [
-    "static/css/main.105e3d3d.css",
-    "static/js/main.9180f2e3.js"
+    "static/css/main.f67131f4.css",
+    "static/js/main.b664704d.js"
   ]
 }
