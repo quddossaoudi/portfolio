@@ -32,6 +32,7 @@
 
 
 
+
 @media screen and (max-width:1024px){
     .portfolio__container{
         grid-template-columns: 1fr 1fr;
@@ -39,8 +40,10 @@
     }
 }
 @media screen and (max-width:600px){
-    .portfolio__container{
-        grid-template-columns: 1fr;
-        gap: 1rem;
+
+    .container {
+        display: block !important;
+        /* width: var(--containter-width-sm) */
     }
+
 }

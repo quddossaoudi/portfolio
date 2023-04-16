@@ -11,7 +11,7 @@ const HeaderSocials = () => {
         <a href="https://www.linkedin.com/in/quddossaoudi/" target="_blank"><BsLinkedin/></a>
         <a href="https://www.gitlab.com/quddossaoudi" target="_blank"><FaGitlab/></a>
         <a href="https://www.github.com/quddossaoudi" target="_blank"><FaGithub/></a>
-        <a href="https://dribbble.com" target="_blank"><AiOutlineMail/></a>
+        <a href="mailto:QuddosSaoudi@gmail.com" target="_blank"><AiOutlineMail/></a>
     </div>
   )
 }

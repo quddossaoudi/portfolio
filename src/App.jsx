@@ -37,7 +37,6 @@ const App = () => {
 
             :
             
-
           <div>
         < Header/>
         < Nav />
@@ -45,7 +44,7 @@ const App = () => {
         <Experience/>
         <Services/>
         <Portfolio />
-        <Content/>
+        {/* <Content/> */}
         <Testimonials />
         <Contact/>
         <Footer/>
